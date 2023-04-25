@@ -1,1 +1,2 @@
 # lab-fragment
+- requireActivity
